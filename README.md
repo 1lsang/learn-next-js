@@ -17,3 +17,4 @@ Next.js 웹사이트의 [코스 커리큘럼](https://nextjs.org/learn)을 기�
 - [10. Partial Prerendering](./docs/10-PARTIAL-PRERENDERING.md)
 - [11. Adding search and pagination](./docs/11-ADDING-SEARCH-AND-PAGINATION.md)
 - [12. Mutating data](./docs/12-MUTATING-DATA.md)
+- [13. Handling errors](./docs/13-HANDLING-ERRORS.md)
