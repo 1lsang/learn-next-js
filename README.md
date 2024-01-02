@@ -1,7 +1,7 @@
 ## Next.js App Router Course - Starter
 
-Next.js 웹사이트의 [코스 커리큘럼](https://nextjs.org/learn)을 기반으로 Next.js 앱 라우터 코스를 진행하며 공부한 내용을 정리하는 저장소입니다.
-
+Next.js 웹사이트의 [코스 커리큘럼](https://nextjs.org/learn)을 기반으로 Next.js 앱 라우터 코스를 진행하며 공부한 내용을 정리한 저장소입니다.
+2024. 01. 03 완료하였습니다.
 
 ## 내용 정리
 - [00. React Foundation](./docs/00-REACT-FOUNDATION.md)
@@ -18,3 +18,6 @@ Next.js 웹사이트의 [코스 커리큘럼](https://nextjs.org/learn)을 기�
 - [11. Adding search and pagination](./docs/11-ADDING-SEARCH-AND-PAGINATION.md)
 - [12. Mutating data](./docs/12-MUTATING-DATA.md)
 - [13. Handling errors](./docs/13-HANDLING-ERRORS.md)
+- [14. Improving Accessibility](./docs/14-IMPROVING-ACCESSIBILITY.md)
+- [15. Adding Authentication](./docs/15-ADDING-AUTHENTICATION.md)
+- [16. Adding Metadata](./docs/16-ADDING-METADATA.md)
